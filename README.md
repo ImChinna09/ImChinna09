@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ImChinna09
 - 👀 I’m interested in webDeveloping
-- 🌱 I’m currently learning  Html,css & javaScript
+- 🌱 I learned learning  Html,css & javaScript
+- 🌱 I'm currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surendrakmr456@gmail.com
 
